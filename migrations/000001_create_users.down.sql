@@ -1,0 +1,1 @@
+-- Revert creation of the users table.
